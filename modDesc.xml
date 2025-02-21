@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="95">
+    <author>Leo</author>
+    <version>1.0.0.0</version>
+    <title>
+		<de>Thunderfarming Mulcher1000</de>
+		<en>Thunderfarming Mulcher1000</en>
+    </title>
+    <description>
+		<de><![CDATA[
+Shopkategorie: Mulcher
+Preis: 78.000€
+Benötigte Leistung: 270 PS
+Arbeitsbreite: 12,2m
+Arbeitsgeschwindigkeit: 30 km/h
+]]></de>
+		<en><![CDATA[
+Category: Mulchers
+Price: $78,000
+Required power: 270 hp
+Working width: 12.2m
+Working speed: 30 kph
+]]></en>
+    </description>
+    <iconFilename>store/icon_Mulcher1000.dds</iconFilename>
+    <storeItems>
+        <storeItem xmlFilename="xml/Mulcher1000.xml"/>
+    </storeItems>
+	<brands>
+        <brand title="Thunderfarming" image="brand/brand_ThF.dds" name="Thunderfarming"/>
+    </brands>
+	<multiplayer supported="true"/>
+</modDesc>
