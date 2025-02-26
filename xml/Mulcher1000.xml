@@ -516,6 +516,17 @@
             <size height="3.35"/>
         </designConfiguration>
     </designConfigurations>
+    <baseColorConfigurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Karosserie">
+        <baseColorConfiguration name="Thunderfarming Black" color="0 0 0" isDefault="true" />
+        <material materialSlotName="Body" />
+    </baseColorConfigurations>
+    <designColorConfigurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Fender">
+        <designColorConfiguration name="Thunderfarming Grau" color="SHARED_GREY5" isDefault="true" />
+        <material materialSlotName="Walze" />
+    </designColorConfigurations>
+    <rimColorConfigurations useDefaultColors="true">
+        <rimColorConfiguration materialTemplateName="RIM_CONFIGURATION_BLACK" />
+    </rimColorConfigurations>
     <wearable wearDuration="480" workMultiplier="5" fieldMultiplier="2"/>
     <washable dirtDuration="90" washDuration="1" workMultiplier="6" fieldMultiplier="2"/>
     <i3dMappings>
