@@ -520,7 +520,7 @@
         <baseColorConfiguration name="Thunderfarming Black" color="0 0 0" isDefault="true" />
         <material materialSlotName="Body" />
     </baseColorConfigurations>
-    <designColorConfigurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Fender">
+    <designColorConfigurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Walze">
         <designColorConfiguration name="Thunderfarming Grau" color="SHARED_GREY5" isDefault="true" />
         <material materialSlotName="Walze" />
     </designColorConfigurations>
