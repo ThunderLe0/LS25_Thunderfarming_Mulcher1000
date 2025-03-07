@@ -516,14 +516,22 @@
             <size height="3.35"/>
         </designConfiguration>
     </designConfigurations>
-    <baseColorConfigurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Karosserie">
+    <baseColorConfigurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Rahmen 1">
         <baseColorConfiguration name="Thunderfarming Black" color="0 0 0" isDefault="true" />
         <material materialSlotName="Body" />
     </baseColorConfigurations>
-    <designColorConfigurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Walze">
+    <designColorConfigurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Rahmen 2">
         <designColorConfiguration name="Thunderfarming Grau" color="SHARED_GREY5" isDefault="true" />
-        <material materialSlotName="Walze" />
+        <material materialSlotName="Frame2" />
     </designColorConfigurations>
+    <designColor2Configurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Walze">
+        <designColor2Configuration name="Thunderfarming Grau" color="SHARED_GREY5" isDefault="true" />
+        <material materialSlotName="Walze" />
+    </designColor2Configurations>
+    <designColor3Configurations useDefaultColors="true" defaultColorMaterialTemplateName="calibratedMetallicPaint" title="Rollen">
+        <designColor3Configuration name="Thunderfarming Grau" color="SHARED_GREY5" isDefault="true" />
+        <material materialSlotName="Roller" />
+    </designColor3Configurations>
     <rimColorConfigurations useDefaultColors="true">
         <rimColorConfiguration materialTemplateName="RIM_CONFIGURATION_BLACK" />
     </rimColorConfigurations>
